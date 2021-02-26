@@ -1,0 +1,10 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Cabin', sans-serif;
+}
+/* 
+html{
+  background-image: linear-gradient(130deg, #f0e50a, #006b33 55%);
+} */
