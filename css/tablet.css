@@ -56,6 +56,14 @@
     width: 160px;
   }
 
+  .group img{
+    width: 450px;
+  }
+
+  .group-dentista img{
+    width: 250px;
+  }
+
   footer img{
     width: 160px;
   }
